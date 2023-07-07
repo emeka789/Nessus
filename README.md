@@ -23,7 +23,7 @@ Before getting started, ensure you have the following prerequisites in place:
 4. **Remediate Vulnerabilities:** Take necessary steps to remediate the vulnerabilities discovered by Nessus. This includes updating or removing the deprecated Firefox application and applying any necessary patches or fixes.
 
 5. **Retest the Client Machine:** Once the remediation steps are complete, rescan the client machine using Nessus to verify that the vulnerabilities have been successfully mitigated. 
-![Screenshot 2023-07-02 152038](https://github.com/emeka789/Nessus/assets/99328320/90e12ca0-e9c8-4feb-971e-90e7dad096b1)
+![Screenshot 2023-07-07 154738](https://github.com/emeka789/Nessus/assets/99328320/c1d39f6b-ddd8-4d53-ac4c-3b48115ef0c5)
 
 
 ## Conclusion
